@@ -1,7 +1,7 @@
 # hllp
 Hell Let Loose RCON REST Server
 
-This program serves as example usage for the [github.com/verocity-gaming/rcon](rcon) client.
+This program serves as example usage for the [rcon](github.com/verocity-gaming/rcon) client.
 
 `go build && ./hllp -addr <addr> -pass <pass> -port 12345`
 
